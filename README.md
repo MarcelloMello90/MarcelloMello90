@@ -14,5 +14,4 @@ I'm a Web Developer. And, I'm studyng web development at [Rocketseat](https://ww
 
 #### Contacts
 
--  📬 Email: marcellomello90@gmail.com
 - 👤 Linkedin: https://www.linkedin.com/in/marcelo-melo-1120a9a2/
